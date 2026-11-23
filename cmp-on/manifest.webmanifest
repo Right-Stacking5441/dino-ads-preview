@@ -1,0 +1,27 @@
+{
+  "name": "dino.game",
+  "short_name": "dino.game",
+  "description": "The T-Rex runner from Chrome\u2019s offline page, in any browser.",
+  "start_url": "/dino-ads-preview/cmp-on/",
+  "scope": "/dino-ads-preview/cmp-on/",
+  "display": "fullscreen",
+  "background_color": "#fafaf8",
+  "theme_color": "#fafaf8",
+  "icons": [
+    {
+      "src": "/dino-ads-preview/cmp-on/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dino-ads-preview/cmp-on/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/dino-ads-preview/cmp-on/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
